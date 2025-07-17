@@ -51,11 +51,3 @@ class Developer:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
-
-## Contribution Graph
-
-<div align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zohan-zafar-dev&theme=tokyo-night&bg_color=0d1117&hide_border=true" />
-</div>
-
----

@@ -1,16 +1,78 @@
-## Hi there 👋
 
-<!--
-**zohan-zafar-dev/zohan-zafar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# ✨ Zohan Zafar ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=AI+Software+Engineer;Backend+Developer+%7C+Django+%7C+FastAPI;Generative+AI+%7C+LLMs+%7C+RAG+Expert)](https://git.io/typing-svg)
+
+<p>Backends that run fast. AI that thinks smart. Interfaces that just work.</p>
+
+</div>
+
+---
+
+## About Me
+
+```python
+class Developer:
+    def __init__(self):
+        self.role = "AI Software Engineer"
+        self.skills = ["Back-End Development", "Generative AI", "Frontend Interfaces"]
+        self.tools = ["Django", "FastAPI", "LangChain", "React"]
+        self.focus = "Building full systems that are fast, smart, and reliable."
+
+    def build(self, project):
+        return f"{project} — done right, end to end."
+````
+
+---
+
+## Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### Frameworks & Libraries
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=zohan-zafar-dev&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="48%" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zohan-zafar-dev&theme=tokyonight&hide_border=false" width="48%" /> 
+</div>
+
+---
+
+## GitHub Achievements
+
+<div align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=zohan-zafar-dev&theme=monokai&no-frame=true&margin-w=15" /> 
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zohan-zafar-dev&theme=tokyo-night&bg_color=0d1117&hide_border=true" />
+</div>
+
+---

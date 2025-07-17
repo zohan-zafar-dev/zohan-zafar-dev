@@ -52,22 +52,6 @@ class Developer:
 
 ---
 
-## GitHub Stats
-
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=zohan-zafar-dev&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="48%" /> 
-</div>
-
----
-
-## GitHub Achievements
-
-<div align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=zohan-zafar-dev&theme=monokai&no-frame=true&margin-w=15" /> 
-</div>
-
----
-
 ## Contribution Graph
 
 <div align="center"> 

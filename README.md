@@ -56,7 +56,6 @@ class Developer:
 
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=zohan-zafar-dev&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="48%" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zohan-zafar-dev&theme=tokyonight&hide_border=false" width="48%" /> 
 </div>
 
 ---
